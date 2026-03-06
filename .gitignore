@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Runtime input/output folders (keep structure, ignore contents)
+drop_gpkg_here/*
+!drop_gpkg_here/.gitkeep
+
+drop_style_files_here/*
+!drop_style_files_here/.gitkeep
+
+converted_kml/*
+!converted_kml/.gitkeep
+
+processed_gpkg/*
+!processed_gpkg/.gitkeep
+
+processed_style_files/*
+!processed_style_files/.gitkeep
