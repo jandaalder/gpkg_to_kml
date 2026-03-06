@@ -1,6 +1,6 @@
 # GPKG to KML Converter
 
-I don't like QGIS. I should probably learn to use it. But sometime I just want to very quickly be able to see a .gpkg layer and quickly compare it to satellite imagery or Google Streetview. For those use cases I built this easy to use local tool to convert `.gpkg` files into `.kml` files for Google Earth Pro.
+I don't like QGIS. I should probably learn to use it. But sometime I just want to be able to just quickly inspec a .gpkg layer and compare it to satellite imagery or Google Streetview. Or to one of the other layers I already have in Google Earth Pro. For those use cases I built this easy to use local tool to convert `.gpkg` files into `.kml` files.
 
 ## Folder Structure
 
